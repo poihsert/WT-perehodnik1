@@ -8,7 +8,7 @@ const ENABLE_IMMEDIATE_REDIRECT = false;
 
 const App: React.FC = () => {
   const backgroundImageUrl = 'https://i.ibb.co/zWRDGyYn/image.png';
-  const avatarImageUrl = 'https://i.ibb.co/XfpcC3S0/Frame-1000008344.png';
+  const avatarImageUrl = 'https://i.ibb.co/MyRKZrZp/Frame-268.png';
   
   // ссылка для редиректа
   const immediateRedirectLink = 'https://t.me/envato265_bot';
@@ -45,9 +45,9 @@ const App: React.FC = () => {
           className="w-24 h-24 sm:w-28 sm:h-28 rounded-full border-4 border-neutral-700 object-cover shadow-lg"
         />
         
-        <h1 id="channel-title" className="text-2xl sm:text-3xl font-bold text-white">Envato 265грн/Місяць</h1>
+        <h1 id="channel-title" className="text-2xl sm:text-3xl font-bold text-white">White Tools Browser</h1>
         
-        <p className="text-neutral-400 text-xs sm:text-sm">1,888 користувачів</p>
+        <p className="text-neutral-400 text-xs sm:text-sm">3.382 користувачів</p>
         
         <p className="text-neutral-400 text-xs sm:text-sm leading-relaxed px-2">
           Закритий бот, де можна дешево придбати Envato Elements за 265грн/місяць
