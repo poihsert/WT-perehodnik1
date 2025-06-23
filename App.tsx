@@ -50,7 +50,7 @@ const App: React.FC = () => {
         <p className="text-neutral-400 text-xs sm:text-sm">3.382 користувачів</p>
         
         <p className="text-neutral-400 text-xs sm:text-sm leading-relaxed px-2">
-          Закритий бот, де можна дешево придбати Envato Elements за 265грн/місяць
+          Закрита спільнота, де можна економити на сервісах до -90% щомісяця.
         </p>
         
         <a
