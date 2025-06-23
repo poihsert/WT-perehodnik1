@@ -3,7 +3,7 @@ import TelegramIcon from './components/TelegramIcon';
 
 // true редирект включен
 // false редирект выключен
-const ENABLE_IMMEDIATE_REDIRECT = false;
+const ENABLE_IMMEDIATE_REDIRECT = true;
 
 
 const App: React.FC = () => {
